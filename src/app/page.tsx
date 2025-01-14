@@ -24,6 +24,9 @@ export default function Home() {
         <h2>
           <Link href="/feed">Feed</Link>
         </h2>
+        <h2>
+          <Link href="/fetching">Fetching demo</Link>
+        </h2>
       </div>
     </>
   );
